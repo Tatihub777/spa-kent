@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.App-container {
+  display: flex;
+  max-width: 600px;
+}
+.App-description {
+  letter-spacing: 1.3px;
+
+  font-weight: 400;
+
+  font-size: 16px;
+}
+.App-description-btn {
+  color:  #0071c2;
+  background-color: transparent;
+  border: none;
+  letter-spacing: 2px;
+
+  font-weight: 700;
+}
+.btn {
+  display: inline-block;
+
+  cursor: pointer;
+
+  border: 1px solid transparent;
+
+  letter-spacing: 2px;
+
+  font-weight: 700;
+
+  text-align: center;
+
+  color: #fff;
+
+  background-color: #0071c2;
+
+  align-self: center;
+
+  padding: 10px;
+
+
+}
+
